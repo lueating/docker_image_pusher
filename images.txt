@@ -1,1 +1,1 @@
-xldevops/jdk17-alpine
+openjdk:17.0.2
