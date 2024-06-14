@@ -1,1 +1,1 @@
-xuxueli/xxl-job-admin:2.4.0
+xldevops/jdk17-alpine
