@@ -1,1 +1,1 @@
-davyinsa/elasticsearch-ik:7.17.5
+node:20.12.0
