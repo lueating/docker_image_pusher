@@ -1,1 +1,1 @@
-openjdk:8-jdk
+wukongim/wukongim:v1.2.5
