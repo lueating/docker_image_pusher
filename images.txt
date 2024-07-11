@@ -1,1 +1,1 @@
-wukongim/wukongim:v1.2.5
+python:3.8.10-slim
