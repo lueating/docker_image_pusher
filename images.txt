@@ -1,1 +1,1 @@
-node:18.20-alpine
+redis:6.2.12
