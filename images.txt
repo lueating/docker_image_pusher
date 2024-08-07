@@ -1,1 +1,1 @@
-mysql:8.0.35
+wukongim:v2.0.1
