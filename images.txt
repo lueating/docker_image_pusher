@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2024-09-09T16-59-28Z
+redis:7.0
